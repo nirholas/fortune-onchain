@@ -1,0 +1,11 @@
+{
+  "slug": "fortune-onchain",
+  "name": "Fortune Onchain",
+  "kind": "proof",
+  "description": "Generate deterministic fortunes whose seed and result can be verified later.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
