@@ -8,7 +8,7 @@ Generate deterministic fortunes whose seed and result can be verified later.
 
 - Source: https://github.com/nirholas/fortune-onchain
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
